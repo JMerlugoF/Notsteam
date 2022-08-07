@@ -33,7 +33,3 @@ build/
 .vscode/
 
 ### Spring Boot ###
-.mvn
-mvnw
-mvnw.cmd
-pom.xml
